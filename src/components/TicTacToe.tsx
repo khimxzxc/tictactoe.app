@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+
 
 const calculateWinner = (squares: Array<string | null>): string | null => {
   const lines = [
